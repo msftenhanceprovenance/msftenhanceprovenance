@@ -1,1 +1,1 @@
-See this page on the [Microsoft GitHub Organization](https://github.com/microsoft/Secure-Supply-Chain/#readme) for details.
+See [this](https://github.com/microsoft/Secure-Supply-Chain) repository in the [GitHub Microsoft organization](https://github.com/microsoft).
